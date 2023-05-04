@@ -14,7 +14,7 @@
           2、所有文章未经授权禁止转载、摘编、复制或建立镜像，如有违反，追究法律责任。举报邮箱：
           <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=ljguang0401@163.com">ljguang0401@163.com</a>
         </p>
-        <p>Copyright © 2021-{{ now_year }}<a href="https://tcztk.com" target="_blank">www.tcztk.com</a> All Rights Reserved. 备案号：<a href="http://beian.miit.gov.cn/" target="_blank" rel="nofollow">鄂ICP备2021022606号-1</a></p>
+        <p>Copyright © 2021-{{ now_year }}<a href="https://tczkt.com" target="_blank">www.tczkt.com</a> All Rights Reserved. 备案号：<a href="http://beian.miit.gov.cn/" target="_blank" rel="nofollow">鄂ICP备2021022606号-1</a></p>
       </div>
     </div>
   </footer>

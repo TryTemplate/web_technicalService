@@ -1,6 +1,6 @@
 <template>
     <div class="">
-        <img src="https://files.tcztk.com/mh.png">
+        <img src="https://files.tczkt.com/mh.png">
     </div>
 </template>
 

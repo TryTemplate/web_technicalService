@@ -17,6 +17,7 @@ import VueAxios from 'vue-axios'
 //全局样式
 import "../src/assets/css/base.css";
 import "../src/assets/css/m.css";
+import "../src/assets/css/index.css";
 
 
 
